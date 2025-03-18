@@ -3,6 +3,15 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
+    .images {
+    display: flex;
+    text-algin: center;
+    justify-content: center;
+.images {
+    display: flex;
+    text-algin: center;
+    justify-content: center;
+}
 }
 header { 
     background-color: #ffffff; 
@@ -18,11 +27,6 @@ nav {
 section { 
     padding: 20 px; 
     text-align: center; 
-}
-.images {
-    display: flex;
-    text-algin: center;
-    justify-content: center;
 }
 .two-images { 
     display: flex; 
