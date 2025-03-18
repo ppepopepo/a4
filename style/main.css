@@ -3,6 +3,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
 }
 header { 
     background-color: #ffffff; 
@@ -15,10 +19,6 @@ nav {
     display: flex; 
     gap: 20 px; 
 }
- .images {
-         display: flex;
-        justify-content: center;
-    }
 section { 
     padding: 20 px; 
     text-align: center; 
