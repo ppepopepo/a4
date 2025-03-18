@@ -33,6 +33,7 @@ section {
     display: flex; 
     justify-content: center; 
     gap: 40 px; 
+}
 .fragment { 
     margin-top: 60 px; 
 }
