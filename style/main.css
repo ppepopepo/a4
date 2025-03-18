@@ -19,10 +19,6 @@ section {
     padding: 20 px; 
     text-align: center; 
 }
-.image {
-    display: flex; 
-    justify-content: center;
-}
 .two-images { 
     display: flex; 
     justify-content: center; 
