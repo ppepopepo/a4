@@ -25,6 +25,10 @@ section {
     justify-content: center; 
     gap: 40 px; 
 }
+.photo-item {
+            text-align: center;
+            max-width: 1000 px;
+        }
 .fragment { 
     margin-top: 60 px; 
 }
