@@ -10,13 +10,13 @@ header {
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
-     display: flex;
-    text-algin: center;
-    justify-content: center;
 }
 nav { 
     display: flex; 
     gap: 20 px; 
+    display: flex;
+    text-algin: center;
+    justify-content: center;
 }
 section { 
     padding: 20 px; 
