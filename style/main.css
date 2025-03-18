@@ -27,6 +27,19 @@ section {
     height: 100 vh;
     text-alihn: center;
 }
+.centered-image {
+    max-widh: 100 %;
+    height: auto;
+    margin-bottom: 20 px;
+    align-items: center;
+    justify-content: center;
+}
+.centered-text {
+    front-size: 1.5 rem;
+    color: #333;
+    align-items: center;
+    justify-content: center;
+}
 .two-images { 
     display: flex; 
     justify-content: center; 
