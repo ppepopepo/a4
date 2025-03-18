@@ -19,16 +19,6 @@ section {
     padding: 20 px; 
     text-align: center; 
 }
-.text {
-    text-align: center;
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-}
-.images {
-    display: flex;
-    justify-content: center;
-}
 .two-images { 
     display: flex; 
     justify-content: center; 
