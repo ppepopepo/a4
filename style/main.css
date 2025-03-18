@@ -4,6 +4,10 @@ body {
     padding: 0;
     background-color: #ffffff;
 }
+ .images {
+         display: flex;
+        justify-content: center;
+    }
 header { 
     background-color: #ffffff; 
     padding: 10 px; 
