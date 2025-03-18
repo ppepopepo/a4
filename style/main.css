@@ -4,10 +4,6 @@ body {
     padding: 0;
     background-color: #ffffff;
 }
- .images {
-         display: flex;
-        justify-content: center;
-    }
 header { 
     background-color: #ffffff; 
     padding: 10 px; 
@@ -19,6 +15,10 @@ nav {
     display: flex; 
     gap: 20 px; 
 }
+ .images {
+         display: flex;
+        justify-content: center;
+    }
 section { 
     padding: 20 px; 
     text-align: center; 
