@@ -11,6 +11,16 @@ header {
     justify-content: space-between; 
     align-items: center; 
 }
+.text {
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.images {
+    display: flex;
+    justify-content: center;
+}
 nav { 
     display: flex; 
     gap: 20 px; 
