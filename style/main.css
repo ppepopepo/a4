@@ -3,15 +3,9 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    .images {
     display: flex;
     text-algin: center;
     justify-content: center;
-.images {
-    display: flex;
-    text-algin: center;
-    justify-content: center;
-}
 }
 header { 
     background-color: #ffffff; 
