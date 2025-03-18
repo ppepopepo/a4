@@ -3,9 +3,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #ffffff;
-    display: flex;
-    text-algin: center;
-    justify-content: center;
 }
 header { 
     background-color: #ffffff; 
@@ -13,6 +10,9 @@ header {
     display: flex; 
     justify-content: space-between; 
     align-items: center; 
+     display: flex;
+    text-algin: center;
+    justify-content: center;
 }
 nav { 
     display: flex; 
