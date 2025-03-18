@@ -19,15 +19,15 @@ section {
     padding: 20 px; 
     text-align: center; 
 }
-.two-images { 
-    display: flex; 
-    justify-content: center; 
-    gap: 40 px; 
-}
 .images {
     display: flex;
     text-algin: center;
     justify-content: center;
+}
+.two-images { 
+    display: flex; 
+    justify-content: center; 
+    gap: 40 px; 
 }
 .fragment { 
     margin-top: 60 px; 
